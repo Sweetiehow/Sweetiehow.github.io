@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Sweetiehow.github.io/sitemap.xml
